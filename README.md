@@ -1,4 +1,4 @@
-# 1.9-SSG-MultiInstances
+# 1.9-SSG-Multi-Instances
 
 This is a macro for 1.9 ssg speedruning.      
 Maybe it can be used in other(previous 1.14)versions , you can try.      
